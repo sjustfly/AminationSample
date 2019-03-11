@@ -25,6 +25,10 @@
     [self.view addSubview:view];
     
     [view startAnimation];
+    
+    // git log
+    NSLog(@"65efe2611742a910ffcd24ffb05aa2a3c56d20e6 [65efe26]");
+    
 }
 
 
